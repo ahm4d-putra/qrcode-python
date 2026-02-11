@@ -1,0 +1,100 @@
+# ====================
+# PYTHON
+# ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# ====================
+# PYINSTALLER / EXE
+# ====================
+*.spec
+build/
+dist/
+*.exe
+*.exe.manifest
+*.dll
+*.pdb
+*.ico  # Kecuali kalo mau share iconnya
+!icon.ico  # Uncomment kalo icon mau diikutin
+
+# ====================
+# ANDROID / APKTOOL / JADX
+# ====================
+*.apk
+*.dex
+*.jar
+*.keystore
+*.jks
+decompiled_*/
+jadx_output*/
+original/
+smali/
+build/
+*.iml
+local.properties
+.cxx/
+.idea/
+*.apk.idsig
+
+# ====================
+# DATABASE
+# ====================
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# ====================
+# IDE
+# ====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ====================
+# LOGS & TEMP
+# ====================
+*.log
+*.tmp
+*.temp
+*.cache
+*.pid
+*.seed
+*.pid.lock
+*.pot
+*.mo
+
+# ====================
+# PROJECT SPECIFIC
+# ====================
+# QR Tool
+qr_codes.db
+qr_codes.sqlite
+QR_Code_*.png
+temp_qr.png
+*.png
+!icon.png  # Kecuali icon project
+!logo.png  # Kecuali logo project
+
+# Android Reverse
+mykey.keystore
+debug.keystore
+*.apk_backup
+*.apk.orig
+original/
