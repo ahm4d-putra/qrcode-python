@@ -3,7 +3,7 @@
   # 🔳 QR TOOL PRO v2.2
   ### *Indonesian QR Code Generator - Professional Edition*
   
-  [![GitHub release](https://img.shields.io/github/v/release/ahm4d-ptra/qrcode-python?color=blue&label=Download&style=for-the-badge)](https://github.com/ahm4d-putra/qrcode-python/releases)
+  [![GitHub release](https://img.shields.io/github/v/release/ahm4d-putra/qrcode-python?color=blue&label=Download&style=for-the-badge)](https://github.com/ahm4d-putra/qrcode-python/releases)
   [![Python](https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
   [![Build](https://img.shields.io/github/actions/workflow/status/username/qr-tool-pro/build.yml?style=for-the-badge)](https://github.com/username/qr-tool-pro/actions)
