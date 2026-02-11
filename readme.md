@@ -1,7 +1,5 @@
 <div align="center">
-  
-  <img src="screenshots/banner.png" alt="QR Tool Pro Banner" width="800">
-  
+
   # 🔳 QR TOOL PRO v2.2
   ### *Indonesian QR Code Generator - Professional Edition*
   
